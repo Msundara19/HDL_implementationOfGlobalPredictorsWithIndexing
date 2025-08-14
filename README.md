@@ -23,8 +23,8 @@
   • Explore hybrid/tournament and TAGE predictors
   • Prototype on FPGA for real-world metrics
   
-  HOW IT WORKS
-  ### 1. Branch Sequence Generation
+HOW IT WORKS
+### 1. Branch Sequence Generation
 The `branchseq.py` script generates `branch_seq.txt`:
 - Pattern: `TTTTN` repeated
 - Represents: inner loop with 4 taken branches, followed by a not-taken branch at loop exit.
