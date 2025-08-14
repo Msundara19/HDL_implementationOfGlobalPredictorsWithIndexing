@@ -1,4 +1,4 @@
-# HDL_implementationOfGlobalPredictorsWithIndexing.pdf
+# HDL_implementationOfGlobalPredictorsWithIndexing
 
  Implemented three dynamic branch predictors in Verilog:
   • GPredict: PC[3:0]-indexed 2-bit counters
